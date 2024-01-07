@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/jmk360/submodule.git
+[submodule "ros_ws"]
+	path = ros_ws
+	url = https://github.com/jmk360/ROS_Study.git
